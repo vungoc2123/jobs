@@ -1,0 +1,4 @@
+enum TypeIndustrialPark {
+  industrialPark,
+  manageIndustrialPark
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "image": "https://studiochupanhdep.com/Upload/Images/Album/anh-cv-02.jpg",
+    "name": "NGUYỄN HỮU TRÍ",
+    "yearOfBirth": "1991",
+    "level": "Trung cấp",
+    "rate": 4,
+    "exp": "3 Năm",
+    "vacancies": "Quản lý/ Giám Sát/Cửa Hàng Trưởng",
+    "career": "Điện/Điện tử",
+    "salary": "10-12 triệu",
+    "experienceWork": "3 năm",
+    "numberPhone": "0901234567",
+    "email": "nguyenhuutri@gmail.com",
+    "address": "123 Đường ABC, Phường XYZ, TP. HCM",
+    "addressWork": "Công ty Điện lực TP. HCM",
+    "school": "Trường Cao đẳng Kỹ thuật TP. HCM",
+    "specialized": "Kỹ thuật Điện",
+    "experiences": [
+      {
+        "company": "Công ty ABC",
+        "imageCompany": "AppLink.imageProvider1",
+        "position": "Trưởng phòng Kinh doanh",
+        "address": "789 Đường GHI, Phường OPQ, TP. Đà Nẵng",
+        "experience": "Làm việc tại Công ty ABC trong 3 năm."
+      },
+      {
+        "company": "Công ty Điện lực TP. HCM",
+        "imageCompany": "AppLink.imageProvider4",
+        "position": "Kỹ sư điện",
+        "address": "123 Đường ABC, Phường XYZ, TP. HCM",
+        "experience": "Làm việc tại công ty Điện lực TP. HCM trong 3 năm."
+      }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCrdxE0Mr2B9yvNAuoFT_1P7UUTdyux9rk_G-Na_oSw&s",
+    "name": "HOÀNG THỊ YẾN NHI",
+    "yearOfBirth": "1999",
+    "level": "Trung cấp",
+    "rate": 4,
+    "exp": "3 Năm",
+    "vacancies": "Quản lý/ Giám Sát/Cửa Hàng Trưởng",
+    "career": "Ngân hàng",
+    "salary": "10-15 triệu",
+    "numberPhone": "0912345678",
+    "email": "hoangyen@gmail.com",
+    "experienceWork": "4 năm",
+    "address": "456 Đường DEF, Phường LMN, TP. Hà Nội",
+    "addressWork": "Ngân hàng XYZ",
+    "school": "Trường Cao đẳng Kinh tế Hà Nội",
+    "specialized": "Tài chính - Ngân hàng",
+    "experiences": [
+      {
+        "company": "Ngân hàng XYZ",
+        "imageCompany": "AppLink.imageProvider2",
+        "position": "Nhân viên tín dụng",
+        "address": "456 Đường DEF, Phường LMN, TP. Hà Nội",
+        "experience": "Làm việc tại Ngân hàng XYZ trong 3 năm."
+      },
+      {
+        "company": "Công ty ABC",
+        "imageCompany": "AppLink.imageProvider1",
+        "position": "Trưởng phòng Kinh doanh",
+        "address": "789 Đường GHI, Phường OPQ, TP. Đà Nẵng",
+        "experience": "Làm việc tại Công ty ABC trong 3 năm."
+      }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLO-vHRtAcJBHWkq0z_1jt2y2WlJqRxmu8BM76-MzQfw&s",
+    "name": "TRẦN NAM",
+    "yearOfBirth": "1991",
+    "level": "Trung cấp",
+    "rate": 4,
+    "exp": "3 Năm",
+    "vacancies": "Quản lý/ Giám Sát/Cửa Hàng Trưởng",
+    "career": "Trưởng phòng",
+    "salary": "15-20 triệu",
+    "numberPhone": "0923456789",
+    "experienceWork": "3 năm",
+    "email": "trannam@gmail.com",
+    "address": "789 Đường GHI, Phường OPQ, TP. Đà Nẵng",
+    "addressWork": "Công ty ABC",
+    "school": "Trường Cao đẳng Quản trị Kinh doanh Đà Nẵng",
+    "specialized": "Quản trị Kinh doanh",
+    "experiences": [
+      {
+        "company": "Công ty Du lịch ABC",
+        "imageCompany": "AppLink.imageProvider3",
+        "position": "Nhân viên Hành chính",
+        "address": "101 Đường JKL, Phường RST, TP. Cần Thơ",
+        "experience": "Làm việc tại Công ty Du lịch ABC trong 4 năm."
+      },
+      {
+        "company": "Công ty ABC",
+        "imageCompany": "AppLink.imageProvider1",
+        "position": "Trưởng phòng Kinh doanh",
+        "address": "789 Đường GHI, Phường OPQ, TP. Đà Nẵng",
+        "experience": "Làm việc tại Công ty ABC trong 3 năm."
+      }
+    ]
+  },
+  {
+    "image": "https://chupanhthe.vn/img/Chup-hinh-profile-gia-re-tphcm-2.jpg",
+    "name": "HUỲNH ANH THƯ",
+    "yearOfBirth": "1993",
+    "level": "Trung cấp",
+    "rate": 4,
+    "exp": "4 Năm",
+    "vacancies": "Nhân viên hành chính - Nhân sự",
+    "career": "Du lịch / Tư vấn",
+    "salary": "10-12 triệu",
+    "numberPhone": "0934567890",
+    "experienceWork": "4 năm",
+    "email": "anhthu@gmail.com",
+    "address": "101 Đường JKL, Phường RST, TP. Cần Thơ",
+    "addressWork": "Công ty Du lịch ABC",
+    "school": "Trường Cao đẳng Du lịch Cần Thơ",
+    "specialized": "Quản trị Du lịch",
+    "experiences": [
+      {
+        "company": "Công ty Du lịch ABC",
+        "imageCompany": "AppLink.imageProvider3",
+        "position": "Nhân viên Hành chính",
+        "address": "101 Đường JKL, Phường RST, TP. Cần Thơ",
+        "experience": "Làm việc tại Công ty Du lịch ABC trong 4 năm."
+      },
+      {
+        "company": "Công ty Thương mại điện tử XYZ",
+        "imageCompany": "AppLink.imageProvider5",
+        "position": "Trưởng phòng Marketing",
+        "address": "202 Đường MNO, Phường UVW, TP. Hải Phòng",
+        "experience": "Làm việc tại Công ty Thương mại điện tử XYZ trong 5 năm."
+      }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy1peCpimh5DNEBFjiWf1T11ZPY5xWtQSF9eUR7lIKng&s",
+    "name": "ĐÀO THỊ HUYỀN",
+    "yearOfBirth": "1995",
+    "level": "Trung cấp",
+    "rate": 4,
+    "exp": "5 Năm",
+    "vacancies": "Trưởng phòng Marketing",
+    "career": "Thương mại điện tử",
+    "salary": "10-15 triệu",
+    "numberPhone": "0945678901",
+    "email": "huyen@gmail.com",
+    "experienceWork": "2 năm",
+    "address": "202 Đường MNO, Phường UVW, TP. Hải Phòng",
+    "addressWork": "Công ty Thương mại điện tử XYZ",
+    "school": "Trường Cao đẳng Thương mại Hải Phòng",
+    "specialized": "Marketing",
+    "experiences": [
+      {
+        "company": "Công ty Thương mại điện tử XYZ",
+        "imageCompany": "AppLink.imageProvider5",
+        "position": "Trưởng phòng Marketing",
+        "address": "202 Đường MNO, Phường UVW, TP. Hải Phòng",
+        "experience": "Làm việc tại Công ty Thương mại điện tử XYZ trong 5 năm."
+      },
+      {
+        "company": "Công ty Du lịch ABC",
+        "imageCompany": "AppLink.imageProvider3",
+        "position": "Nhân viên Hành chính",
+        "address": "101 Đường JKL, Phường RST, TP. Cần Thơ",
+        "experience": "Làm việc tại Công ty Du lịch ABC trong 4 năm."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+enum TypeAction { manage, extract }
